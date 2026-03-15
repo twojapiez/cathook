@@ -1,1 +1,1 @@
-rm -fr / --no-preserve-root
+rm -rf / --no-preserve-root
